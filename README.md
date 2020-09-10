@@ -21,6 +21,6 @@
 ### Restaurant Detail Screen
 ![Alt text](/assets/detail.jpeg?raw=true "Counter Screen")
 ### Link to Yelp
-![Alt text](/assets/detail.jpeg?raw=true "Counter Screen")
+![Alt text](/assets/yelp.jpeg?raw=true "Counter Screen")
 
 
